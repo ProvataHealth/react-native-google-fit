@@ -1,5 +1,5 @@
 {
-  "name": "react-native-google-fit",
+  "name": "@provata/react-native-google-fit",
   "version": "0.3.1-1",
   "description": "A React Native bridge module for interacting with Google Fit",
   "main": "index.android.js",
@@ -23,9 +23,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StasDoskalenko/react-native-google-fit.git"
+    "url": "git+https://github.com/ProvataHealth/react-native-google-fit"
   },
   "bugs": {
-    "url": "https://github.com/StasDoskalenko/react-native-google-fit/issues"
+    "url": "https://github.com/ProvataHealth/react-native-google-fit/issues"
   }
 }
